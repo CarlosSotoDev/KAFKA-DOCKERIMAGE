@@ -38,3 +38,8 @@ Verificar que el contenedor esté corriendo:
 docker ps
 ```
 
+---
+
+## Creación de Topicos en Kafka
+
+
